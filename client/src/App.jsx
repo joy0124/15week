@@ -5,7 +5,7 @@ import RecommendPage from './pages/RecommendPage';
 import MenuPage from './pages/MenuPage';
 import MapPage from './pages/MapPage';
 import AdminPage from './pages/AdminPage';
-
+import KakaoMap from "./components/KakaoMap";
 const MOCK_API_URL = "https://6918349021a96359486f1dee.mockapi.io/api/menues";
 
 function App() {
